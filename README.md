@@ -6,6 +6,8 @@
 
 ![Camila GitHub stats](https://github-readme-stats.vercel.app/api?username=CamilaCamposs&show_icons=true&theme=synthwave)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CamilaCamposs)](https://github.com/camilacamposs/github-readme-stats)
+
 ### Tecnologias que eu uso no meu dia
 
 <div style="display: inline-block"><br/>
