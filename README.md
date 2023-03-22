@@ -6,8 +6,7 @@ Estudante do Instituto Federal de São Paulo (IFSP) - Informática
 [![Blog](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/camila-campos-9a52721b7?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base%3BRk2e7gwATOeaJ8T7DHFKkw%3D%3D)
 
 ![Camila GitHub stats](https://github-readme-stats.vercel.app/api?username=CamilaCamposs&show_icons=true&theme=synthwave)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CamilaCamposs)](https://github.com/camilacamposs/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CamilaCamposs&layout=compact)](https://github.com/CamilaCamposs/github-readme-stats)
 
 ### Experiência com:
 <div style="display: inline-block"><br/>
